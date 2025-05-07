@@ -13,7 +13,7 @@ env:
 
 jobs:
   windows-latest-cmake-hip-release-gfx906:
-    runs-on: windows-latest
+    runs-on: windows-2019
 
     strategy:
       matrix:
